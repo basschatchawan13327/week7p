@@ -1,0 +1,2 @@
+print("Hoon")
+print("Student")
